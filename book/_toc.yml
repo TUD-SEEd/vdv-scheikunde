@@ -5,10 +5,8 @@ parts:
   - caption: Contents
     chapters:
     - file: some_content/overview.md
-  # START REMOVE-FROM-PUBLISH
       sections:
       - file: some_content/text_and_code.ipynb
-  
     - file: book/hoofdstuk1.md
     
 
