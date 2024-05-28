@@ -1,9 +1,10 @@
-(intro)=
-# Welcome to the Template Book
+# Welkom bij VakDidactiek Verdiepend scheikunde
+SL4330
 
-_Write book intro here. This is the first page the student will see when opening the url._
+# Inleiding
 
-This book can be used as a template for other books. It includes all software developed by the CEG interactive books initiative and make it easier to keep various software in those other books up to date.
+_In dit document staat veel, maar niet alles. De inhoudsopgave hierboven vertelt je wat er precies aan informatie is. Dit document bevat de concrete uitwerking van wat je bij Course Description, Learning Objectives, Course structure and dates, Assessment, enzovoorts, leest. Daarnaast vind je op BrigtSpace alle informatie, bronnen, voorbereiding, huiswerk etc. per college uitgewerkt. Een grote uitzondering: voor het thema NLT wordt een aantal afzonderlijke, op zichzelf staande sessies samen met DIO’s van andere vakken georganiseerd. NLT komt in dit document verder nagenoeg niet aan de orde._
+
 
 ---
 
