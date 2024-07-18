@@ -8,5 +8,6 @@ parts:
       sections:
       - file: some_content/text_and_code.ipynb
     - file: hoofdstuk1.md
+    - file: hoofdstuk2.md
     - file: references.md
     - file: credits.md
