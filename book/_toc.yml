@@ -4,8 +4,8 @@ root: intro.md
 parts:
   - caption: Inhoud
     chapters:
-    - file: overview.md
-    - file: some_content/hoofdstuk1.md
-    - file: some_content/hoofdstuk2.md
-    - file: some_content/references.md
-    - file: some_content/credits.md
+    - file: some_content/overview.md
+    - file: hoofdstuk1.md
+    - file: hoofdstuk2.md
+    - file: references.md
+    - file: credits.md
