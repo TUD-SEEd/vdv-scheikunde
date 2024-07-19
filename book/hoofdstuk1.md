@@ -7,9 +7,9 @@ Het ontwerp van een les, lessenserie, leerjaar en curriculum begint met het stel
 De opbouw van een les is: activeren & toetsen van de voorkennis, kenbaar maken van het leerdoel, de les zelf met daarin het aanleren van het leerdoel (de lesstof), het verwerken van het leerdoel (werkvormen en leerlingactiviteiten) en toetsen of de leerdoelen zijn bereikt. Deze lesbouwstenen kun je verschillende manieren om je doel te bereiken. Daarnaast wil je in elke lesbouwsteen controleren of de leerling het heeft begrepen en of hij/zij klaar is voor de volgende stap. Hiervoor zetten we het formatief toetsen, handelen of evalueren in.
 
 
+Modulariteit
+De les zou je kunnen zien als een complexe taak voor de docent. Zo'n complexe taak is makkelijker aan te vliegen als je deze opdeelt in kleinere, herbruikbare componenten of "bouwstenen". Deze bouwstenen vertegenwoordigen fundamentele elementen van lesgeven die kunnen worden gecombineerd en aangepast. Dit is het principe van modulariteit. Door gebruik te maken van de omdraaiheuristiek kun je de volgorde van deze lesbouwstenen of deze lesbouwstenen aanpassen zodat er nieuwe lessen ontstaan. Bij het invoeren van een onderwijsinnovatie is het goed om te beginnen bij de huidige lespraktijk en deze stap-voor-stap geleidelijk aan te passen totdat de gewenste onderwijspraktijk is bereikt (Bridging methodology). (Dam en Janssen, 2021)
 
-Een losse les is te verdelen in lesbouwstenen. Door deze lesbouwstenen te herkennen, kun je vervolgens gaan 'spelen' met deze lesbouwstenen. Op deze manier kun je steeds nieuwe lessen bouwen.
-Refs.
 
 
 
