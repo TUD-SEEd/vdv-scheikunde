@@ -4,7 +4,7 @@ root: intro.md
 parts:
   - caption: Inhoud
     chapters:
-    - file: some_content/overview.md
+    - file: overview.md
     - file: some_content/hoofdstuk1.md
     - file: some_content/hoofdstuk2.md
     - file: some_content/references.md
